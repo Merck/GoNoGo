@@ -188,5 +188,4 @@ posterior.prob
 
 Currently, the followings are in progress
 
-- R-shiny app corresponding to Normal
 - Binary Go/No-Go.
